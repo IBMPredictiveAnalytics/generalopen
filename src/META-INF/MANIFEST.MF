@@ -1,0 +1,12 @@
+Name: generalopen
+Dialog-Specs: generalopen.spd
+Code-Files: generalopen.py
+Summary: Open a data, syntax, or output file from a single dialog box
+Description: This package provides a convenience dialog box that insta
+ lls on the File menu and provides a unified way of opening a data, sy
+ ntax, or output file without visiting submenus.  Data files can be sa
+ v or zsav.  A password can be supplied.
+Author: JKP, IBM SPSS
+Version: 1.0.1
+Product-Version: 18
+Plugins: Python
