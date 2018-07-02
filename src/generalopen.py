@@ -3,7 +3,7 @@
 # *
 # * IBM SPSS Products: Statistics Common
 # *
-# * (C) Copyright IBM Corp. 1989, 2014
+# * (C) Copyright IBM Corp. 1989, 2018
 # *
 # * US Government Users Restricted Rights - Use, duplication or disclosure
 # * restricted by GSA ADP Schedule Contract with IBM Corp. 
@@ -53,8 +53,8 @@ class ManageClient(object):
     
     def NewDataFile(self, datasetname):
         spss.Submit("new file.")
-        if newdatasetname:
-            spss.Submit("""dataset name %s""" % newdatasetname)
+        if datasetname:
+            spss.Submit("""dataset name %s""" % datasetname)
             
     def NewSyntaxDoc(self):
         self.start()
