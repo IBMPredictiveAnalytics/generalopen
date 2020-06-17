@@ -1,11 +1,11 @@
 # generalopen
 ## Open a data, syntax, or output file from a single dialog box
- This package provides a convenience dialog box that installs on the File menu and provides a unified way of opening a data, syntax, or output file without visiting submenus.  Data files can be sav or zsav.  A password can be supplied.
+ This package provides a convenience dialog box that insta
 
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for Python.
+- IBM SPSS Statistics 18 or later
 
 ---
 Installation intructions
