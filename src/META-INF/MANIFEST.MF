@@ -1,4 +1,5 @@
 Name: generalopen
+Display-Name: General File Open
 Dialog-Specs: generalopen.spd
 Code-Files: generalopen.py
 Misc-Files: Readme.md,LICENSE,default.png
