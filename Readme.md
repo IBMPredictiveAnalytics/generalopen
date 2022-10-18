@@ -1,6 +1,6 @@
 # generalopen
 ## Open a data, syntax, or output file from a single dialog box
- This package provides a convenience dialog box that insta
+This package provides a convenience dialog box that installs on the File menu and provides a unified way of opening a data, syntax, or output file without visiting submenus. Data files can be sav or zsav. A password can be supplied.
 
 ---
 Requirements
